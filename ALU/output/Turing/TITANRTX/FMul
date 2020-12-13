@@ -1,0 +1,3 @@
+PTX: mul.rn.f32
+SASS: FMUL
+--> number of cycles = 4

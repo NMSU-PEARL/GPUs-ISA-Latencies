@@ -1,0 +1,3 @@
+PTX: add.f32
+SASS: FADD
+--> number of cycles = 4

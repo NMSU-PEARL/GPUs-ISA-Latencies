@@ -1,0 +1,3 @@
+PTX: popc.b32
+SASS: POPC
+--> number of cycles = 4

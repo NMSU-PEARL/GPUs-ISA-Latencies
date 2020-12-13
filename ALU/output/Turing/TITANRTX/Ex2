@@ -1,0 +1,3 @@
+PTX: ex2.approx.f32
+SASS: FSTEP + FMUL + MUFU.EX2 + FMUL
+--> number of cycles = 16

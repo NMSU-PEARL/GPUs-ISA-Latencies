@@ -1,0 +1,3 @@
+PTX: div.rn.f64
+SASS: [emulated]
+--> number of cycles = 606

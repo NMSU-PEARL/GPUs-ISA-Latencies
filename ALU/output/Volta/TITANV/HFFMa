@@ -1,0 +1,3 @@
+PTX: fma.rn.f16
+SASS: HFMA
+--> number of cycles = 6

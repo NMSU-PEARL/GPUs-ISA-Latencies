@@ -1,0 +1,3 @@
+PTX: rsqrt.approx.f32
+SASS: [multiple insts including MUFU.RSQ]
+--> number of cycles = 18

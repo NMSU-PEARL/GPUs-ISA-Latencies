@@ -1,0 +1,3 @@
+PTX: div.u32
+SASS: [emulated]
+--> number of cycles = 71

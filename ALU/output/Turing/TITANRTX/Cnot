@@ -1,0 +1,3 @@
+PTX: cnot.b32
+SASS: SETP + SEL
+--> number of cycles = 9

@@ -1,0 +1,3 @@
+PTX: mul.rn.f64
+SASS: DMUL
+--> number of cycles = 45

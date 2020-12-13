@@ -1,0 +1,3 @@
+PTX: mul24.hi.u32
+SASS: [emulated] SGXT.U32 + IMAD.WIDE.U32 + SHF.R.U32.HI + PRMT
+--> number of cycles = 15

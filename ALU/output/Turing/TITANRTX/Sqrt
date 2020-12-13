@@ -1,0 +1,3 @@
+PTX: sqrt.rn.f32
+SASS: [multiple insts including MUFU.RSQ]
+--> number of cycles = 72

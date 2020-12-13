@@ -1,0 +1,3 @@
+PTX: fma.rn.f32
+SASS: FFMA
+--> number of cycles = 4

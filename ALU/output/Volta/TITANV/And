@@ -1,0 +1,3 @@
+PTX: and.b32
+SASS: LOP3.LUT
+--> number of cycles = 4

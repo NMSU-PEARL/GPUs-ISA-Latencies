@@ -1,0 +1,3 @@
+PTX: setp.ne.s32
+SASS: ISETP.NE.AND
+--> number of cycles = 4

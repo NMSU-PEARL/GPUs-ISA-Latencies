@@ -1,0 +1,3 @@
+PTX: mov.u32 r1, tid.x
+SASS: S2R
+--> number of cycles = 4

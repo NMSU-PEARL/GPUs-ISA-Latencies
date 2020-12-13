@@ -1,0 +1,3 @@
+PTX: mul.rn.f16
+SASS: HMUL
+--> number of cycles = 6

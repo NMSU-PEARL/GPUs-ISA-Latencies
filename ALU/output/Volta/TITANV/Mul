@@ -1,0 +1,3 @@
+PTX: mul.lo.u32
+SASS: IMUL
+--> number of cycles = 4

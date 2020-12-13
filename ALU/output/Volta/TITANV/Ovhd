@@ -1,0 +1,3 @@
+PTX: 2 x mov.u32 rx clock;
+SASS: 2 x CS2R.32 Rx SR_CLOCKLO;
+--> number of cycles = 8

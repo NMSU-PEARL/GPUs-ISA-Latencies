@@ -1,0 +1,3 @@
+PTX: add.rn.f64
+SASS: DADD
+--> number of cycles = 45

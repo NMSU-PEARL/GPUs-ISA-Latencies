@@ -1,0 +1,3 @@
+PTX: rcp.rn.f64
+SASS: [multiple insts including MUFU.RCP64H]
+--> number of cycles = 251

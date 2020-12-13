@@ -1,0 +1,3 @@
+PTX: add.f16
+SASS: HADD
+--> number of cycles = 6

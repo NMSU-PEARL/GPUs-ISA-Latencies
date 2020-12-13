@@ -1,0 +1,3 @@
+PTX: rsqrt.approx.ftz.f64
+SASS: MUFU.RSQ64H
+--> number of cycles = 12

@@ -1,0 +1,3 @@
+PTX: fma.rn.f64
+SASS: DFMA
+--> number of cycles = 45

@@ -1,0 +1,3 @@
+PTX: sin.approx.f32
+SASS: FMUL + MUFU.SIN
+--> number of cycles = 8

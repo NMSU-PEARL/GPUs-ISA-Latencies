@@ -1,0 +1,3 @@
+PTX: cvt.rzi.s32.f32
+SASS: F2I.TRUNC.NTZ
+--> number of cycles = 4

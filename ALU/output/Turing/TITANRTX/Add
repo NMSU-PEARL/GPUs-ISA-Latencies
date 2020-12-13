@@ -1,0 +1,3 @@
+PTX: add.u32
+SASS: IADD
+--> number of cycles = 4
